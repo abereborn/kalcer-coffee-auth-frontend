@@ -1,5 +1,3 @@
-# 5️⃣ Auth Frontend
-
 # 🔐 Kalcer Coffee Auth Frontend
 
 ## 📖 Description
